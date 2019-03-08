@@ -1,6 +1,6 @@
 # WeMos ESP-WROOM-32
 
-![alt text](https://bitbucket.org/johanels/micropython-wemos-esp32/raw/77df2291d4584294f77e2a3015ac02abe2635310/images/wemos-esp32_com_oled-pinout.png)
+![alt text](https://github.com/johanels/micropython-wemos-esp32/blob/master/images/wemos-esp32_com_oled-pinout.png)
 
 
 ## Requirements:
