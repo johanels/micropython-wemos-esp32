@@ -1,0 +1,24 @@
+[submodule "MicroTelnetServer"]
+	path = MicroTelnetServer
+	url = https://github.com/cpopp/MicroTelnetServer.git
+[submodule "picoweb"]
+	path = picoweb
+	url = https://github.com/pfalcon/picoweb.git
+[submodule "micropython-adafruit-ssd1306"]
+	path = micropython-adafruit-ssd1306
+	url = https://github.com/adafruit/micropython-adafruit-ssd1306
+[submodule "lib/microtelnetserver"]
+	path = lib/microtelnetserver
+	url = https://github.com/cpopp/MicroTelnetServer.git
+[submodule "lib/picoweb"]
+	path = lib/picoweb
+	url = https://github.com/pfalcon/picoweb.git
+[submodule "lib/micropython-adafruit-ssd1306"]
+	path = lib/micropython-adafruit-ssd1306
+	url = https://github.com/adafruit/micropython-adafruit-ssd1306
+[submodule "lib/micropython-lib"]
+	path = lib/micropython-lib
+	url = https://github.com/pfalcon/micropython-lib.git
+[submodule "lib/MicroPython_ESP32_psRAM_LoBo"]
+	path = lib/MicroPython_ESP32_psRAM_LoBo
+	url = https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo.git

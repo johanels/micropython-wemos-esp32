@@ -1,0 +1,25 @@
+from machine import Pin
+
+led1=Pin(0,Pin.OUT)
+led2=Pin(2,Pin.OUT)
+led3=Pin(12,Pin.OUT)
+led4=Pin(13,Pin.OUT)
+led5=Pin(14,Pin.OUT)
+led6=Pin(15,Pin.OUT)
+led7=Pin(16,Pin.OUT)
+
+led1.value(1)
+led2.value(1)
+led3.value(1)
+led4.value(1)
+led5.value(1)
+led6.value(1)
+led7.value(1)
+
+led1.value(0)
+led2.value(0)
+led3.value(0)
+led4.value(0)
+led5.value(0)
+led6.value(0)
+led7.value(0)
